@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\GitEdication\\BG_CS_HomeWork_F\\GB_CS_HomeWork#2\\GB_CS_HomeWork#2.csproj",
-      "projectName": "GB_CS_HomeWork#2",
-      "projectPath": "C:\\Users\\User\\Desktop\\GitEdication\\BG_CS_HomeWork_F\\GB_CS_HomeWork#2\\GB_CS_HomeWork#2.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\GitEdication\\BG_CS_HomeWork_F\\GB_CS_HomeWork#1\\GB_CS_HomeWork#1.csproj",
+      "projectName": "GB_CS_HomeWork#1",
+      "projectPath": "C:\\Users\\User\\Desktop\\GitEdication\\BG_CS_HomeWork_F\\GB_CS_HomeWork#1\\GB_CS_HomeWork#1.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\GitEdication\\BG_CS_HomeWork_F\\GB_CS_HomeWork#2\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\GitEdication\\BG_CS_HomeWork_F\\GB_CS_HomeWork#1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
