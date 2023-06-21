@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\GeekBrains\GitEdication\BG_CS_HomeWork_F\GB_CS_HomeWork#10\bin\Debug\net7.0\GB_CS_HomeWork#10.exe
+C:\Users\User\Desktop\GeekBrains\GitEdication\BG_CS_HomeWork_F\GB_CS_HomeWork#10\bin\Debug\net7.0\GB_CS_HomeWork#10.deps.json
+C:\Users\User\Desktop\GeekBrains\GitEdication\BG_CS_HomeWork_F\GB_CS_HomeWork#10\bin\Debug\net7.0\GB_CS_HomeWork#10.runtimeconfig.json
+C:\Users\User\Desktop\GeekBrains\GitEdication\BG_CS_HomeWork_F\GB_CS_HomeWork#10\bin\Debug\net7.0\GB_CS_HomeWork#10.dll
+C:\Users\User\Desktop\GeekBrains\GitEdication\BG_CS_HomeWork_F\GB_CS_HomeWork#10\bin\Debug\net7.0\GB_CS_HomeWork#10.pdb
+C:\Users\User\Desktop\GeekBrains\GitEdication\BG_CS_HomeWork_F\GB_CS_HomeWork#10\obj\Debug\net7.0\GB_CS_HomeWork#10.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\GeekBrains\GitEdication\BG_CS_HomeWork_F\GB_CS_HomeWork#10\obj\Debug\net7.0\GB_CS_HomeWork#10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\GeekBrains\GitEdication\BG_CS_HomeWork_F\GB_CS_HomeWork#10\obj\Debug\net7.0\GB_CS_HomeWork#10.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\GeekBrains\GitEdication\BG_CS_HomeWork_F\GB_CS_HomeWork#10\obj\Debug\net7.0\GB_CS_HomeWork#10.AssemblyInfo.cs
+C:\Users\User\Desktop\GeekBrains\GitEdication\BG_CS_HomeWork_F\GB_CS_HomeWork#10\obj\Debug\net7.0\GB_CS_HomeWork#10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\GeekBrains\GitEdication\BG_CS_HomeWork_F\GB_CS_HomeWork#10\obj\Debug\net7.0\GB_CS_HomeWork#10.dll
+C:\Users\User\Desktop\GeekBrains\GitEdication\BG_CS_HomeWork_F\GB_CS_HomeWork#10\obj\Debug\net7.0\refint\GB_CS_HomeWork#10.dll
+C:\Users\User\Desktop\GeekBrains\GitEdication\BG_CS_HomeWork_F\GB_CS_HomeWork#10\obj\Debug\net7.0\GB_CS_HomeWork#10.pdb
+C:\Users\User\Desktop\GeekBrains\GitEdication\BG_CS_HomeWork_F\GB_CS_HomeWork#10\obj\Debug\net7.0\GB_CS_HomeWork#10.genruntimeconfig.cache
+C:\Users\User\Desktop\GeekBrains\GitEdication\BG_CS_HomeWork_F\GB_CS_HomeWork#10\obj\Debug\net7.0\ref\GB_CS_HomeWork#10.dll
