@@ -14,8 +14,7 @@ string dayOfTheWeek = Console.ReadLine() ?? "";
 int dayNumber = int.Parse(dayOfTheWeek);
 
 try
-    {
-        catch (Exception exc)
+    {catch (Exception exc)
         {
             Console.WriteLine($"Ошибка ввода данных! {exc.Message}");
             return;
@@ -33,8 +32,10 @@ try
                     else Console.WriteLine("(этот день не выходной?) -> нет, иди работай!");
 
                 }
+                }
+        
 
-    }
+    
 
 weeeeeek(dayNumber);
 Console.WriteLine();
@@ -52,3 +53,13 @@ Console.WriteLine();
         return;
 }
 
+
+if ((a > 0) && (a < 8))
+{
+    if (a == 6 || a == 7)
+    { Console.WriteLine($"{a}-> да"); }
+    else
+    { Console.WriteLine($"{a}-> нет "); }
+}
+else
+{ Console.WriteLine($"{a}-> такого дня недели нету "); }*/
