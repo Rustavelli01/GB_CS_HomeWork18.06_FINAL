@@ -5,20 +5,20 @@
 
 Console.Clear();
 
-//К сожалению задача не выполнена. Вариант из интернета. выражение" || " было записанно в чате. Чат к сожалению в записи не отображается.
+try 
+{ 
+    Console.Write("Введи цифру, обозначающую день недели: "); 
+    string dayOfTheWeek = Console.ReadLine() ?? ""; 
+    int dayNumber = int.Parse(dayOfTheWeek); 
 
-Console.WriteLine("Задача 15 ");
-
-Console.Write("Введи цифру, обозначающую день недели: ");
-string dayOfTheWeek = Console.ReadLine() ?? "";
-int dayNumber = int.Parse(dayOfTheWeek);
-
-try
-    {catch (Exception exc)
+    weeeeeek(dayNumber); 
+} 
+catch (Exception exc) 
         {
-            Console.WriteLine($"Ошибка ввода данных! {exc.Message}");
+            Console.WriteLine($"***ЭТО ЧТО ТО НОВОЕ!!!*** {exc.Message}");
             return;
         }
+               
             void weeeeeek(int dayNumber)
                 {
                 if (dayNumber == 6 || dayNumber == 7)
@@ -27,39 +27,8 @@ try
                     }
                     else if (dayNumber < 1 || dayNumber > 7)
                     {
-                        Console.WriteLine("это вообще не день недели");
+                        Console.WriteLine("Веселый ты человек!-) Давай еще раз!");
                     }
                     else Console.WriteLine("(этот день не выходной?) -> нет, иди работай!");
 
-                }
-                }
-        
-
-    
-
-weeeeeek(dayNumber);
-Console.WriteLine();
-
-/*try
-{
-    Console.Write("Введите день недели: ");
-    a = int.Parse(Console.ReadLine());
-
- 
-    }
-    catch(Exception exc)
-    {
-        Console.WriteLine($"Ошибка ввода данных! {exc.Message}");
-        return;
 }
-
-
-if ((a > 0) && (a < 8))
-{
-    if (a == 6 || a == 7)
-    { Console.WriteLine($"{a}-> да"); }
-    else
-    { Console.WriteLine($"{a}-> нет "); }
-}
-else
-{ Console.WriteLine($"{a}-> такого дня недели нету "); }*/
