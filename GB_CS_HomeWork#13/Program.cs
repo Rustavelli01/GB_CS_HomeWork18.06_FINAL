@@ -5,16 +5,20 @@
 
 
 Console.Clear();
-Console.WriteLine("Доброго времени суток! Задача 13 ");
-Console.Write("ВВедите 3-х значное число: ");
-string userImput = Console.ReadLine() ?? "";
-int Num = int.Parse(userImput);
-if (userImput.Length > 2)
+Console.WriteLine("Введите число:");
+string number = Console.ReadLine() ??"";
+int a = int.Parse(number);
+if (a > 99)
 {
-  Console.WriteLine("третья цифра имеет символ -> " + userImput[2]);
+while (a > 1000)
+    {
+        a = a / 10;
+    }
+Console.WriteLine($"{number}->{a % 10}");
 }
-else {
-  Console.WriteLine("-> третьей цифры нет!");
+else
+{
+    Console.WriteLine($"{a}->третьей цифры нет");
 }
 Console.WriteLine("У Вас осталось 2 попытки! ");
 Console.WriteLine();
